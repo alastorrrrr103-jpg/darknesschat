@@ -3,7 +3,7 @@ import { getAuth } from "https://www.gstatic.com/firebasejs/12.0.0/firebase-auth
 import { getFirestore } from "https://www.gstatic.com/firebasejs/12.0.0/firebase-firestore.js";
 
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
+  apiKey: "YOUR_ACTUAL_API_KEY",
   authDomain: "darknesschat-9ef50.firebaseapp.com",
   projectId: "darknesschat-9ef50",
   storageBucket: "darknesschat-9ef50.firebasestorage.app",
