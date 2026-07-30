@@ -1,3 +1,5 @@
+alert("signup.js is working!");
+
 import { auth, db } from "./firebase.js";
 
 import { 
