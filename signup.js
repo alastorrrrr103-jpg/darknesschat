@@ -74,3 +74,5 @@ signupBtn.addEventListener("click", async () => {
     }
 
 });
+
+}
