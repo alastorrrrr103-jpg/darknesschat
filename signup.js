@@ -23,6 +23,9 @@ import {
 
 const signupBtn = document.getElementById("signupBtn");
 
+if (!signupBtn) {
+    alert("Signup button not found");
+} else {
 
 signupBtn.addEventListener("click", async () => {
 
